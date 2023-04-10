@@ -15,4 +15,4 @@ To use this function you need:
 ##About This
 This function is used as code in the article:
 
-[https://medium.com/@vs.souza/how-get-reminders-of-your-okr-events-with-a-slack-google-calendar-integration-98ded0a33a1f|How get reminders of your OKR Events with a Slack/Google Calendar integration].
+https://medium.com/@vs.souza/how-get-reminders-of-your-okr-events-with-a-slack-google-calendar-integration-98ded0a33a1f
